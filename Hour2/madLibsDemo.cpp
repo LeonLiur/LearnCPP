@@ -10,6 +10,11 @@ int main()
 
     cin >> color1 >> color2 >> celeb;
 
+    // using getline()
+    // getline(cin, color1)
+    // getline(cin, color2)
+    // getline(cin, celeb)
+
     cout << "Roses are " << color1 << endl;
     cout << "Violets are " << color2 << endl;
     cout << "I don't like " << celeb << endl;
