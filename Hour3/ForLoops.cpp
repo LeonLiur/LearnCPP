@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int nums[] = {1,23,53,412,53};
+    int nums[] = {1,23,53,412,53,234};
     
     for (int i = 0; i < 10; i++)
     {
@@ -16,7 +16,6 @@ int main()
         cout << x << endl;
     }
     
-
 
     return 0;
 }
